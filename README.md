@@ -5,3 +5,5 @@ Hola, aquest és el meu primer repositori. Em servirà per aprendre a fer servir
 Elsa
 
 Dimecres 2 d'octubre de 2024
+
+##Command Cheat Sheet
